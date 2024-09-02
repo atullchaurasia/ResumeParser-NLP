@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+spacy
+docx2txt
+pytesseract
+pillow
+cassandra-driver
+pdf2image
+llama-index
+gradient
