@@ -1,7 +1,3 @@
-Based on your provided project code, here is a README file that you can use for your GitHub repository:
-
----
-
 # Resume Parser
 
 A Resume Parser built using FastAPI and NLP techniques to extract useful information from resumes in different formats such as PDF and DOCX. The project utilizes various Python libraries for text extraction and processing to parse information like education, experience, skills, projects, certifications, awards, and more.
