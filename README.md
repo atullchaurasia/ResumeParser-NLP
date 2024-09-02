@@ -117,5 +117,3 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fo
 - [spaCy](https://spacy.io/)
 
 ---
-
-This README should provide a good overview of your project, including its functionality, structure, installation steps, and potential future enhancements. You can further customize it based on specific details of your project.
